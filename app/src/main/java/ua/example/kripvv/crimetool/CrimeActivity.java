@@ -1,5 +1,7 @@
 package ua.example.kripvv.crimetool;
 
+//Let`s begin!
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
